@@ -1,0 +1,51 @@
+CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference
+1) Download Section Presentation: Download Presentation : https://www.in28minutes.com/resources-microservices-course
+
+2) Bookmark the GitHub folder for this section:
+https://github.com/in28minutes/spring-microservices-v2/tree/main/02.restful-web-services
+
+
+
+Help for Debugging Problems:
+Here's the code backup at the end of step 05:
+https://github.com/in28minutes/spring-microservices-v2/blob/main/02.restful-web-services/Step05.md
+
+Step by Step changes are detailed here:
+https://github.com/in28minutes/spring-microservices-v2/blob/main/02.restful-web-services/01-step-by-step-changes/v2.md#step-03
+
+
+lastest code reference :
+https://github.com/in28minutes/spring-microservices-v3
+
+
+microservices:
+CODE BACKUP FILES and STEP BY STEP CHANGES : For Reference
+Help for Debugging Problems:
+Here's the code backup at the end of Step 07: https://github.com/in28minutes/spring-microservices-v3/blob/main/03.microservices/step07.md
+
+Step by Step changes are detailed here:https://github.com/in28minutes/spring-microservices-v3/blob/main/03.microservices/01-step-by-step-changes/readme.md#step-01
+
+Two Recommended Activities:
+Activity - 1 : Explore other backups for this section (Steps 08,10,13,15,21,25,29, final) - https://github.com/in28minutes/spring-microservices-v3/tree/main/03.microservices
+
+Activity - 2 : Get Familiar with the structure of Step by Step changes file - https://github.com/in28minutes/spring-microservices-v3/blob/main/03.microservices/01-step-by-step-changes/readme.md#step-01
+
+
+Latest changes:
+Course Update - Github Repositories
+Thank you so much for enrolling, I'm so excited for you to start your microservices journey!
+
+👉 DO YOU KNOW?
+We are maintaining multiple Github Repositories for this course to make it easy for you to use different Spring Boot versions.
+
+👉 WHAT SHOULD YOU DO?
+Use the following repo's based on your Spring Boot version
+
+Spring Boot 3.0+ - https://github.com/in28minutes/spring-microservices-v3
+
+Spring Boot 2.4+ - https://github.com/in28minutes/spring-microservices-v2
+
+I'll see you at the next lecture!
+
+Happy Learning
+
