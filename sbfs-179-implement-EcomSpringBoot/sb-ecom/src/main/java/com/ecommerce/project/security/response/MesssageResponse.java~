@@ -1,0 +1,7 @@
+package com.ecommerce.project.security.response;
+
+public class MesssageResponse {
+    private String message;
+    public MesssageResponse(String s) {
+    }
+}
